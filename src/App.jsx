@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="App">
-     empty repo
+      empty repo
     </div>
   )
 }
